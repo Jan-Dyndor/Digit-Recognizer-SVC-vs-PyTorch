@@ -6,9 +6,9 @@ This project explores the effectiveness of Support Vector Classifier (with other
 ## 🎯 Objective
 
 - **Model Comparison**: Evaluate and compare the performance of multiple models on the MNIST dataset, including:  
-  1) Support Vector Classifier (SVC),  
-  2) a non-linear Fully Connected Neural Network (FCNN),  
-  3) a simple linear classifier implemented in PyTorch.  
+  - Support Vector Classifier (SVC),  
+  - a non-linear Fully Connected Neural Network (FCNN),  
+  - a simple linear classifier implemented in PyTorch.  
   Several other models were also tested, but SVC achieved the best overall performance and was selected as the final baseline.
 - **Implementation Practice**: Gain hands-on experience in implementing both traditional machine learning models and deep learning architectures using PyTorch.
 - **Performance Analysis**: Analyze and compare key metrics such as accuracy, precision, recall, and F1-score to determine the strengths and limitations of each approach.
